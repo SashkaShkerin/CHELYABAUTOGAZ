@@ -78,6 +78,7 @@ img{
 .header__contacts{
   color: #003165;
   font-style: italic;
+  z-index: 3;
 }
 
 .head-contacts__item{
